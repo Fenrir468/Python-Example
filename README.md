@@ -20,8 +20,7 @@ An example program in Python that demonstrates the following:
 
 # Development Environment
 
-Language - Python
-
+Language - Python and tkinter
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
