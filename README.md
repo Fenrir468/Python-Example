@@ -16,7 +16,7 @@ An example program in Python that demonstrates the following:
 
 - Data structures
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/YcR18Uraqk0)
 
 # Development Environment
 
